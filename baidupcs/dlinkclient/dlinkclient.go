@@ -1,8 +1,8 @@
 package dlinkclient
 
 import (
-	"github.com/iikira/BaiduPCS-Go/baidupcs/expires/cachemap"
-	"github.com/iikira/BaiduPCS-Go/requester"
+	"github.com/konglong87/BaiduPCS-Go/baidupcs/expires/cachemap"
+	"github.com/konglong87/BaiduPCS-Go/requester"
 	"net/url"
 )
 

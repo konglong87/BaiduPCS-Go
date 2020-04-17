@@ -2,10 +2,10 @@ package pcscommand
 
 import (
 	"fmt"
-	"github.com/iikira/BaiduPCS-Go/baidupcs"
-	"github.com/iikira/BaiduPCS-Go/pcstable"
-	"github.com/iikira/BaiduPCS-Go/pcsutil/converter"
-	"github.com/iikira/BaiduPCS-Go/pcsutil/pcstime"
+	"github.com/konglong87/BaiduPCS-Go/baidupcs"
+	"github.com/konglong87/BaiduPCS-Go/pcstable"
+	"github.com/konglong87/BaiduPCS-Go/pcsutil/converter"
+	"github.com/konglong87/BaiduPCS-Go/pcsutil/pcstime"
 	"github.com/olekukonko/tablewriter"
 	"os"
 	"strconv"

@@ -3,8 +3,8 @@ package tieba
 import (
 	"fmt"
 	"github.com/bitly/go-simplejson"
-	"github.com/iikira/BaiduPCS-Go/pcsutil"
-	"github.com/iikira/BaiduPCS-Go/requester"
+	"github.com/konglong87/BaiduPCS-Go/pcsutil"
+	"github.com/konglong87/BaiduPCS-Go/requester"
 	"github.com/iikira/baidu-tools/tieba/tiebautil"
 	"strconv"
 	"time"

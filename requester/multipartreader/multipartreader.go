@@ -5,7 +5,7 @@ package multipartreader
 import (
 	"errors"
 	"fmt"
-	"github.com/iikira/BaiduPCS-Go/requester/rio"
+	"github.com/konglong87/BaiduPCS-Go/requester/rio"
 	"io"
 	"mime/multipart"
 	"strings"

@@ -2,7 +2,7 @@ package baidupcs
 
 import (
 	"errors"
-	"github.com/iikira/BaiduPCS-Go/baidupcs/pcserror"
+	"github.com/konglong87/BaiduPCS-Go/baidupcs/pcserror"
 	"strings"
 )
 

@@ -2,11 +2,11 @@ package pcsconfig
 
 import (
 	"fmt"
-	"github.com/iikira/BaiduPCS-Go/baidupcs"
-	"github.com/iikira/BaiduPCS-Go/baidupcs/dlinkclient"
-	"github.com/iikira/BaiduPCS-Go/pcstable"
-	"github.com/iikira/BaiduPCS-Go/pcsutil/converter"
-	"github.com/iikira/BaiduPCS-Go/requester"
+	"github.com/konglong87/BaiduPCS-Go/baidupcs"
+	"github.com/konglong87/BaiduPCS-Go/baidupcs/dlinkclient"
+	"github.com/konglong87/BaiduPCS-Go/pcstable"
+	"github.com/konglong87/BaiduPCS-Go/pcsutil/converter"
+	"github.com/konglong87/BaiduPCS-Go/requester"
 	"github.com/olekukonko/tablewriter"
 	"os"
 	"strconv"

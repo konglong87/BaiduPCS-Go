@@ -2,8 +2,8 @@ package getip
 
 import (
 	"bytes"
-	"github.com/iikira/BaiduPCS-Go/pcsutil/converter"
-	"github.com/iikira/BaiduPCS-Go/requester"
+	"github.com/konglong87/BaiduPCS-Go/pcsutil/converter"
+	"github.com/konglong87/BaiduPCS-Go/requester"
 	"net/http"
 )
 

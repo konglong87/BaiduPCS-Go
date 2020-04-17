@@ -3,11 +3,11 @@ package baidupcs
 
 import (
 	"errors"
-	"github.com/iikira/BaiduPCS-Go/baidupcs/expires/cachemap"
-	"github.com/iikira/BaiduPCS-Go/baidupcs/internal/panhome"
-	"github.com/iikira/BaiduPCS-Go/baidupcs/pcserror"
-	"github.com/iikira/BaiduPCS-Go/pcsverbose"
-	"github.com/iikira/BaiduPCS-Go/requester"
+	"github.com/konglong87/BaiduPCS-Go/baidupcs/expires/cachemap"
+	"github.com/konglong87/BaiduPCS-Go/baidupcs/internal/panhome"
+	"github.com/konglong87/BaiduPCS-Go/baidupcs/pcserror"
+	"github.com/konglong87/BaiduPCS-Go/pcsverbose"
+	"github.com/konglong87/BaiduPCS-Go/requester"
 	"net/http"
 	"net/http/cookiejar"
 	"net/url"

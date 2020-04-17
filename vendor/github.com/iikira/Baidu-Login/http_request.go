@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 	"github.com/iikira/Baidu-Login/bdcrypto"
-	"github.com/iikira/BaiduPCS-Go/requester"
+	"github.com/konglong87/BaiduPCS-Go/requester"
 	"github.com/json-iterator/go"
 	"net/http/cookiejar"
 	"regexp"

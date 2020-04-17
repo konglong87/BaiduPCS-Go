@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"fmt"
 	"github.com/iikira/Baidu-Login"
-	"github.com/iikira/BaiduPCS-Go/internal/pcsfunctions/pcscaptcha"
-	"github.com/iikira/BaiduPCS-Go/pcsliner"
-	"github.com/iikira/BaiduPCS-Go/requester"
+	"github.com/konglong87/BaiduPCS-Go/internal/pcsfunctions/pcscaptcha"
+	"github.com/konglong87/BaiduPCS-Go/pcsliner"
+	"github.com/konglong87/BaiduPCS-Go/requester"
 	"image/png"
 	"io/ioutil"
 )

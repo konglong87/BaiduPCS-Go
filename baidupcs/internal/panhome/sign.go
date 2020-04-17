@@ -2,7 +2,7 @@ package panhome
 
 import (
 	"github.com/iikira/Baidu-Login/bdcrypto"
-	"github.com/iikira/BaiduPCS-Go/pcsutil/converter"
+	"github.com/konglong87/BaiduPCS-Go/pcsutil/converter"
 )
 
 type (

@@ -2,7 +2,7 @@ package dlinkclient_test
 
 import (
 	"fmt"
-	"github.com/iikira/BaiduPCS-Go/baidupcs/dlinkclient"
+	"github.com/konglong87/BaiduPCS-Go/baidupcs/dlinkclient"
 	"testing"
 )
 

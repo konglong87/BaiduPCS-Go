@@ -2,8 +2,8 @@ package dlinkclient
 
 import (
 	"github.com/iikira/Baidu-Login/bdcrypto"
-	"github.com/iikira/BaiduPCS-Go/baidupcs/pcserror"
-	"github.com/iikira/BaiduPCS-Go/pcsutil/converter"
+	"github.com/konglong87/BaiduPCS-Go/baidupcs/pcserror"
+	"github.com/konglong87/BaiduPCS-Go/pcsutil/converter"
 	"net/http"
 	"net/url"
 )

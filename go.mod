@@ -1,4 +1,4 @@
-module github.com/iikira/BaiduPCS-Go
+module github.com/konglong87/BaiduPCS-Go
 
 go 1.12
 
@@ -6,14 +6,17 @@ require (
 	github.com/GeertJohan/go.rice v0.0.0-20170420135705-c02ca9a983da // indirect
 	github.com/astaxie/beego v1.10.1 // indirect
 	github.com/bitly/go-simplejson v0.5.0 // indirect
+	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/daaku/go.zipexe v0.0.0-20150329023125-a5fe2436ffcb // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/fatih/color v0.0.0-20150510220652-1b35f289c47d
 	github.com/golang/protobuf v1.3.2
 	github.com/iikira/Baidu-Login v1.2.2-0.20180427090606-ecf146973528
+	github.com/iikira/BaiduPCS-Go v3.5.6+incompatible // indirect
 	github.com/iikira/baidu-tools v0.0.0-20190609113215-4dd64618064d
 	github.com/json-iterator/go v1.1.7
 	github.com/kardianos/osext v0.0.0-20170510131534-ae77be60afb1
+	github.com/kr/pretty v0.2.0 // indirect
 	github.com/mattn/go-runewidth v0.0.5-0.20181218000649-703b5e6b11ae
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/oleiade/lane v0.0.0-20160817071224-3053869314bb

@@ -1,8 +1,8 @@
 package getip
 
 import (
-	"github.com/iikira/BaiduPCS-Go/pcsutil/jsonhelper"
-	"github.com/iikira/BaiduPCS-Go/requester"
+	"github.com/konglong87/BaiduPCS-Go/pcsutil/jsonhelper"
+	"github.com/konglong87/BaiduPCS-Go/requester"
 	"net"
 	"net/http"
 )

@@ -3,7 +3,7 @@ package panhome_test
 import (
 	"fmt"
 	"github.com/iikira/Baidu-Login/bdcrypto"
-	"github.com/iikira/BaiduPCS-Go/baidupcs/internal/panhome"
+	"github.com/konglong87/BaiduPCS-Go/baidupcs/internal/panhome"
 	"testing"
 )
 

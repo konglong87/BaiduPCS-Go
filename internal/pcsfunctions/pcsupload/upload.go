@@ -2,11 +2,11 @@ package pcsupload
 
 import (
 	"context"
-	"github.com/iikira/BaiduPCS-Go/baidupcs"
-	"github.com/iikira/BaiduPCS-Go/internal/pcsconfig"
-	"github.com/iikira/BaiduPCS-Go/requester/multipartreader"
-	"github.com/iikira/BaiduPCS-Go/requester/rio"
-	"github.com/iikira/BaiduPCS-Go/requester/uploader"
+	"github.com/konglong87/BaiduPCS-Go/baidupcs"
+	"github.com/konglong87/BaiduPCS-Go/internal/pcsconfig"
+	"github.com/konglong87/BaiduPCS-Go/requester/multipartreader"
+	"github.com/konglong87/BaiduPCS-Go/requester/rio"
+	"github.com/konglong87/BaiduPCS-Go/requester/uploader"
 	"net/http"
 )
 

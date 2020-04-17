@@ -3,9 +3,9 @@ package pcscommand
 import (
 	"errors"
 	"fmt"
-	"github.com/iikira/BaiduPCS-Go/baidupcs"
-	"github.com/iikira/BaiduPCS-Go/internal/pcsconfig"
-	"github.com/iikira/BaiduPCS-Go/pcstable"
+	"github.com/konglong87/BaiduPCS-Go/baidupcs"
+	"github.com/konglong87/BaiduPCS-Go/internal/pcsconfig"
+	"github.com/konglong87/BaiduPCS-Go/pcstable"
 	"os"
 	"path"
 	"strconv"
